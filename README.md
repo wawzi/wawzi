@@ -9,13 +9,11 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝
 ```
 
-*ai student · tinkerer · arch enjoyer*
-
 </div>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSalama&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&langs_count=8" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawzi&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&langs_count=8" align="right" />
 
 ### 🐱 about
 
@@ -36,6 +34,6 @@ and making my terminal look nicer than my assignments
 
 <div align="center">
 
-![:OsmanSalama](https://count.getlopi.com/get/@OsmanSalama?theme=moebooru)
+![:wawzi](https://count.getloli.com/get/@wawzi?theme=booru-lewd)
 
 </div>

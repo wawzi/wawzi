@@ -19,35 +19,15 @@
 
 ### 🐱 about
 
-bsc ai @ university of edinburgh  
-previously hnd computing @ city of glasgow college  
 building things that are probably overengineered
 
 currently obsessing over local ai stacks, window manager configs,  
 and making my terminal look nicer than my assignments
 
-### ⚙️ languages
+### 🛠️ skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,haskell&theme=dark" />
-</p>
-
-### 🛠️ tools & editors
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,neovim,vim&theme=dark" />
-</p>
-
-### 🤖 ai & cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-</p>
-
-### 🐧 setup
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,haskell,androidstudio,idea,vscode,neovim,vim,aws,arch,linux&theme=dark" />
 </p>
 
 <br clear="right"/>
